@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/ivanmrsulja/github-stats/blob/master/generated/overview.svg)  
-![](https://github.com/ivanmrsulja/github-stats/blob/master/generated/languages.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmrsulja&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmrsulja&layout=compact&theme=tokyonight&hide=javascript,html,makefile,css,lex,yacc)](https://github.com/anuraghazra/github-readme-stats)  
