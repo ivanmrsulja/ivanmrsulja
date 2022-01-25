@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="center">
   <span>
     <img width="36%" height="300%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmrsulja&langs_count=8&layout=compact&hide=javascript,makefile,html,css&hide_border=true&count_private=true&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   </span>
