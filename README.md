@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" markdown="1">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmrsulja&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmrsulja&layout=compact&theme=tokyonight&hide=javascript,html,makefile,css,lex,yacc)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <span>
+    <img width="36%" height="300%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmrsulja&langs_count=8&layout=compact&hide=javascript,makefile,html,css&hide_border=true&count_private=true&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  </span>
+  <span>
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=ivanmrsulja&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  </span>
 </div>
-
   
