@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <a href="mailto:mrsuljaivancic@gmail.com?subject=Reaching%20out%20from%20GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/ivan-mr%C5%A1ulja-6350381b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/1320085"><img src="https://www.hackthebox.eu/badge/image/1320085"></a>
+</p>
  
 ## :space_invader: &nbsp;About Me
 
