@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;🔭 &nbsp;Currently working as a Teaching Assistant and doing my PhD in Cybersecurity at [Faculty Of Technical Sciences](https://ftn.uns.ac.rs/) (University Of Novi Sad) \
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Contributing to [Vitro](https://github.com/vivo-project/Vitro), [VIVO](https://github.com/vivo-project/VIVO), [TeslaRIS](https://github.com/sci2zero/TeslaRIS-backend) as well as some other, commercial CRIS projects\
+&nbsp;&nbsp;&nbsp;💻 &nbsp;Contributing to [Vitro](https://github.com/vivo-project/Vitro), [VIVO](https://github.com/vivo-project/VIVO), [TeslaRIS](https://github.com/sci2zero/TeslaRIS-backend) as well as some other, commercial CRIS projects\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently learning about Web Security and Reverse Engineering\
 &nbsp;&nbsp;&nbsp;🫀 &nbsp;Love for science, innovation, problem solving and daily routines automation\
 &nbsp;&nbsp;&nbsp;💬 &nbsp;Ask me about full stack web development and machine learning
